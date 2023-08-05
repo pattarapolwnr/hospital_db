@@ -1,0 +1,7 @@
+body {
+  background: url('img/hs2.png') no-repeat center center;
+  background-size: cover;
+  padding-top: 4rem;
+  padding-bottom: 8rem;
+  height: 500px;
+}
